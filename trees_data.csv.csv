@@ -1,0 +1,31 @@
+Tree,Scientific_Name,Native_Status,Min_Temp,Max_Temp,Min_Rainfall,Max_Rainfall,Tree_Soil,Min_Elevation,Max_Elevation,Sunlight,Water_Need,Drought_Tolerance,Frost_Tolerance,pH_Min,pH_Max
+Oriental Beech,Fagus orientalis,Native,-20,32,600,1800,Loamy,800,2000,Medium,High,Medium,High,5,7.5
+Caucasian Oak,Quercus macranthera,Native,-25,32,500,1600,Loamy,1200,2400,High,Medium,High,High,5,8
+Georgian Oak,Quercus iberica,Native,-20,35,500,1400,Loamy,600,1800,High,Medium,Medium,High,5,8
+Caucasian Hornbeam,Carpinus caucasica,Native,-25,32,600,1600,Loamy,500,1800,Medium,High,Medium,High,5,8
+Oriental Hornbeam,Carpinus orientalis,Native,-20,35,400,1200,Loamy,400,1800,High,Medium,High,High,5,8
+Scots Pine,Pinus sylvestris,Native,-40,35,300,1800,Sandy,800,2400,High,Medium,High,Very High,4,7
+Caucasian Maple,Acer trautvetteri,Native,-25,30,700,1800,Loamy,1500,2500,Medium,High,Low,Very High,5,7.5
+Tatarian Maple,Acer tataricum,Native,-30,35,400,1200,Loamy,500,1800,High,Medium,High,High,5,8
+Litwinow Birch,Betula litwinowii,Native,-35,28,600,1800,Loamy,1800,3000,High,Medium,Medium,Very High,4.5,7
+European Ash,Fraxinus excelsior,Native,-30,35,600,1600,Loamy,300,1800,High,High,Low,High,6,8
+Small-leaved Lime,Tilia cordata,Native,-35,35,500,1400,Loamy,300,1800,Medium,Medium,Medium,Very High,5,8
+Common Juniper,Juniperus communis,Native,-40,35,300,1500,Sandy,500,3000,High,Low,Very High,Very High,4.5,8
+Persian Juniper,Juniperus polycarpos,Native,-25,38,250,900,Sandy,1200,3000,High,Low,Very High,High,5,8
+Foetid Juniper,Juniperus foetidissima,Native,-25,38,250,900,Rocky,1000,2800,High,Low,Very High,High,5,8
+English Yew,Taxus baccata,Native,-25,30,600,1800,Loamy,500,2200,Medium,Medium,Medium,High,5,8
+Oriental Plane,Platanus orientalis,Native,-15,40,500,1500,Loamy,200,1500,High,High,Medium,Medium,5,8
+White Poplar,Populus alba,Native,-30,40,300,1200,Loamy,300,1800,High,High,Medium,High,5.5,8
+Sweet Cherry,Prunus avium,Native,-25,35,600,1400,Loamy,400,1800,High,Medium,Medium,High,5.5,7.5
+Walnut,Juglans regia,Native,-20,38,500,1500,Loamy,300,1800,High,High,Medium,Medium,6,8
+Armenian Apricot,Prunus armeniaca,Considered Native,-25,40,300,900,Loamy,500,1800,High,Medium,Very High,High,6,8
+Pistachio,Pistacia mutica,Native,-20,40,200,700,Sandy,500,1800,High,Low,Very High,Medium,6,8.5
+Caucasian Pear,Pyrus caucasica,Native,-25,35,500,1300,Loamy,500,2000,High,Medium,High,High,5.5,8
+Willowleaf Pear,Pyrus salicifolia,Native,-20,40,300,1000,Sandy,300,1800,High,Low,Very High,Medium,6,8.5
+Wild Apple,Malus orientalis,Native,-25,35,500,1400,Loamy,500,2000,High,Medium,Medium,High,5.5,7.5
+European White Elm,Ulmus laevis,Native,-30,35,500,1500,Loamy,200,1500,High,High,Medium,High,5.5,8
+Seabuckthorn,Hippophae rhamnoides,Native,-40,35,250,1200,Sandy,300,2200,High,Low,Very High,Very High,5.5,8
+Russian Olive,Elaeagnus angustifolia,Native,-30,45,150,800,Sandy,300,1800,High,Low,Very High,High,5,8.5
+Pomegranate,Punica granatum,Native,-12,40,250,900,Loamy,300,1500,High,Low,Very High,Low,5.5,8
+Ziziphus,Ziziphus jujuba,Native,-20,42,200,900,Sandy,300,1600,High,Low,Very High,Medium,5,8.5
+Mountain Ash,Sorbus aucuparia,Native,-35,30,600,1800,Loamy,1000,2400,Medium,Medium,Medium,Very High,4.5,7.5
